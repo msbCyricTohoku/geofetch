@@ -4,4 +4,11 @@ an open-source GNU/Linux tool to detect and prints out information about your pu
 
 dependencies:
 g++ compiler
-libcurl4-openssl-dev   -- install using "sudo apt-get install libcurl4-openssl-dev"
+libcurl4-openssl-dev
+install using `sudo apt-get install libcurl4-openssl-dev`
+
+then run `make`
+
+then `./geofetch.exe`
+
+Enjoy.
