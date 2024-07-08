@@ -1,3 +1,7 @@
+//geofetch --> an open-source GNU/Linux tool to detect and prints out information about
+//your public ip and geological location onto the terminal
+//geofetch uses api.ipify.org and retrieves the information
+//Developed by msb 2024
 #include <iostream>
 #include <string>
 #include <curl/curl.h>
