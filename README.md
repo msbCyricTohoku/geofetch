@@ -11,4 +11,22 @@ then run `make`
 
 then `./geofetch.exe`
 
+output:
+```go
+
+Public IP Address: xxx.xxx.xxx.xxx
+Location Information: {
+  "ip": "xxx.xxx.xxx.xxx",
+  "hostname": "your_hostname",
+  "city": "your_city",
+  "region": "your_state",
+  "country": "your_country_code",
+  "loc": "your_location",
+  "org": "ISP_organization",
+  "postal": "postal_code",
+  "timezone": "timezone",
+  "readme": "https://ipinfo.io/missingauth"
+}
+```
+
 Enjoy.
